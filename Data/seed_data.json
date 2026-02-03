@@ -1,0 +1,62 @@
+{
+  "documents": [
+    {
+      "title": "MCA Syllabus Overview",
+      "description": "Master of Computer Applications (MCA) at Samrat Vikramaditya University follows a 3-year program. Core subjects include Data Structures, DBMS, Computer Networks, Software Engineering, and Machine Learning. The curriculum is aligned with AICTE guidelines."
+    },
+    {
+      "title": "Examination Schedule 2024-25",
+      "description": "Semester exams are held in December (odd semester) and May (even semester). Admit cards are released one week before exams. Results are declared within 45 days of the last exam date."
+    },
+    {
+      "title": "Institute of Computer Science",
+      "description": "The Institute of Computer Science offers MCA, M.Sc. Computer Science, and Ph.D. programs. It is equipped with modern labs, smart classrooms, and industry partnerships for placements."
+    },
+    {
+      "title": "Admission Guidelines",
+      "description": "MCA admissions are based on NIMCET/CUET-PG or university-level entrance exam. Minimum eligibility: BCA/B.Sc. (Computer Science)/B.Com with Mathematics. 60% aggregate required for general category."
+    },
+    {
+      "title": "University Contact Information",
+      "description": "Samrat Vikramaditya University (formerly Vikram University), Ujjain. Email: dswvvujjain@gmail.com, Phone: 0734-2514271. Address: Vikram University, Ujjain, Madhya Pradesh 456010."
+    }
+  ],
+  "notifications": [
+    {
+      "title": "Change of University Name",
+      "description": "Official Notification: The University has been renamed from Vikram University to Samrat Vikramaditya University. All official communications and certificates will reflect the new name."
+    },
+    {
+      "title": "MoU with TCS",
+      "description": "MoU signed between Vikram University and TCS for the B.Tech (CSBS) course. Students will benefit from industry training and placement opportunities."
+    },
+    {
+      "title": "Exam Time Table Release",
+      "description": "The time table for odd semester examinations 2024-25 will be published on the university portal. Students are advised to check the official website regularly."
+    },
+    {
+      "title": "Library Hours",
+      "description": "Central Library remains open Monday to Saturday, 8 AM to 8 PM. Special arrangements during exam period. Digital resources accessible 24/7 via VPN."
+    }
+  ],
+  "users": [
+    {
+      "name": "Demo Admin",
+      "username": "admin",
+      "mobile": "8976543256",
+      "password": "admin123",
+      "role": "admin",
+      "course": "ALL",
+      "year": "N/A"
+    },
+    {
+      "name": "Demo Student",
+      "username": "student",
+      "mobile": "8976543253",
+      "password": "student123",
+      "role": "student",
+      "course": "MCA",
+      "year": "1st"
+    }
+  ]
+}

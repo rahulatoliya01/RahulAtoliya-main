@@ -1,0 +1,4 @@
+streamlit
+google-genai
+streamlit-cookies-manager
+python-dotenv
